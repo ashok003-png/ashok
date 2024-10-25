@@ -1,2 +1,1 @@
-node1   ansible_ssh_host=10.128.0.7 ansible_ssh_user=cloudthatoct_d5075980_2230_4c70_  
-node2   ansible_ssh_host=10.128.0.9 ansible_ssh_user=cloudthatoct_d5075980_2230_4c70_
+node3   ansible_ssh_host=10.128.0.13 ansible_ssh_user=cloudthatoct_d5075980_2230_4c70_
